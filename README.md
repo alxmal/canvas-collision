@@ -1,1 +1,1 @@
-# canvas-collision
+# canvas particles collision sandbox
